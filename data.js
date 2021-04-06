@@ -653,7 +653,7 @@ var data = [{
     country: "us",
     shape: "other",
     durationMinutes: "unknown",
-    comments: "my daughter went with her mother to look for a job&#44 at hickery springs mfco.she toke a picture of her self seting in the drivers set. a"
+    comments: "my daughter went with her mother to look for a job&#44 at hickory springs mfco.she toke a picture of her self seting in the drivers set. a"
   },
   {
     datetime: "1/9/2010",
